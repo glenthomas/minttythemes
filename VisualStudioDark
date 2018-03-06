@@ -1,0 +1,23 @@
+# Visual Studio Dark (https://github.com/MrGlenThomas/minttythemes)
+# Scheme: Glen Thomas
+
+BackgroundColour=30,30,30
+ForegroundColour=220,220,220
+CursorColour=220,220,220
+
+Black=255,0,0
+Red=214,157,133
+Green=78,201,176
+Yellow=153,153,153
+Blue=149,156,161
+Magenta=184,215,163
+Cyan=86,156,214
+White=207,67,21
+BoldBlack=238,46,36
+BoldRed=255,69,52
+BoldGreen=136,209,132
+BoldYellow=0,133,62
+BoldBlue=43,145,175
+BoldMagenta=0,157,220
+BoldCyan=122,193,255
+BoldWhite=176,97,16

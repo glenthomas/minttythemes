@@ -1,0 +1,23 @@
+# Visual Studio Light (https://github.com/MrGlenThomas/minttythemes)
+# Scheme: Glen Thomas
+
+BackgroundColour=238,238,242
+ForegroundColour=0,0,0
+CursorColour=141,52,255
+
+Black=255,0,0
+Red=207,67,21
+Green=43,145,175
+Yellow=115,113,113
+Blue=149,156,161
+Magenta=134,95,197
+Cyan=0,99,255
+White=207,67,21
+BoldBlack=238,46,36
+BoldRed=20,206,20
+BoldGreen=247,193,0
+BoldYellow=0,133,62
+BoldBlue=0,122,204
+BoldMagenta=0,157,220
+BoldCyan=37,37,37
+BoldWhite=176,97,16
